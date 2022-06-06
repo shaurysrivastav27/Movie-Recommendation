@@ -2,7 +2,7 @@
 
 in command line 
 ```
-cd Movie_Recommender/
+cd Movie-Recommendation/
 ```
 for dependencies : 
 ```
